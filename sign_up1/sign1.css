@@ -1,0 +1,32 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-image: url("img/tech.jpg");
+    background-size: cover;
+    background-position: center;
+  
+}
+
+.sign-up-form
+{
+    width: 300px;
+     box-shadow: 0 0 5px 0 rgba(105, 105, 105);
+     background: #fff;
+     padding: 30px;
+     margin: 8% auto 0;
+     text-align: center;
+}
+.input-box
+{
+    width: 270px;
+    padding: 5px;
+    margin: 5px;
+  
+}
+.signup-btn
+{
+    width: 275px;
+    color: white;
+    background-color: rgb(67, 79, 241);
+}
